@@ -29,24 +29,6 @@ When the user enters a correct response the background of the options turns gree
 ![Screenshot 2021-10-21 at 7 57 56 PM](https://user-images.githubusercontent.com/86730045/138298693-61e9c99b-e587-4cfe-8c29-3638f7f2a788.png)
 
 
-## Final Score Page 
-
-
-
-
-![Screenshot 2021-10-21 at 7 59 40 PM](https://user-images.githubusercontent.com/86730045/138299082-08181e3e-a752-40d4-b1a4-3846617638de.png)
-
-Here the user has the option to save his/her score in the local storage 
-
-
-
-## High Scores Page 
-
-Only the top 5 highest scores get featured in the High Scores List 
-
-
-
-![Screenshot 2021-10-21 at 8 06 44 PM](https://user-images.githubusercontent.com/86730045/138300381-0d5207de-e7ba-44db-a2e9-6d62f0887d8a.png)
 
 
 
